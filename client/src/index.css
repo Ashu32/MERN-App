@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body {
+  margin: 0;
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+  font-family: 'Rubik', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Rubik', sans-serif, 'Courier New',
+    monospace;
+}
+.form-control{
+  border:none;
+  border-bottom: 2px solid black;
+  background-color: transparent;
+  box-shadow: none !important;
+  border-radius: 0px;
+}
